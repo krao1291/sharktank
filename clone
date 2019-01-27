@@ -1,0 +1,6 @@
+#!/bin/bash
+# Github clone script
+
+sudo apt install git
+
+git clone https://github.com/krao1291/sharktank
